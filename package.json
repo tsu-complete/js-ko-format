@@ -1,0 +1,26 @@
+{
+  "name": "js-ko-format",
+  "version": "1.0.0",
+  "description": "data format binding for knockout",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsu-complete/js-ko-format.git"
+  },
+  "keywords": [
+    "knockout",
+    "format",
+    "numeral",
+    "numeric"
+  ],
+  "author": "tsukumo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tsu-complete/js-ko-format/issues"
+  },
+  "homepage": "https://github.com/tsu-complete/js-ko-format#readme",
+  "dependencies": {
+    "js-format": "tsu-complete/js-format",
+    "knockout": "^3.3.0"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "js-ko-format",
+  "version": "1.0.0",
+  "homepage": "https://github.com/tsu-complete/js-ko-format",
+  "authors": [
+    "tsukumo"
+  ],
+  "description": "data format binding for knockout",
+  "main": "index.js",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "knockout",
+    "format",
+    "numeral",
+    "numeric"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "js-format": "tsu-complete/js-format#~2.0.0",
+    "knockout": "~3.3.0"
+  }
+}
